@@ -13,9 +13,21 @@ _global_script_classes=[{
 "class": &"Calling",
 "language": &"GDScript",
 "path": "res://Calling.gd"
+}, {
+"base": "Node2D",
+"class": &"Scene",
+"language": &"GDScript",
+"path": "res://Scene.gd"
+}, {
+"base": "Node2D",
+"class": &"Scene2",
+"language": &"GDScript",
+"path": "res://Scene2.gd"
 }]
 _global_script_class_icons={
-"Calling": ""
+"Calling": "",
+"Scene": "",
+"Scene2": ""
 }
 
 [application]
